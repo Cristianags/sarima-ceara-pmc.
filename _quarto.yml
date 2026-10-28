@@ -1,0 +1,21 @@
+project:
+  type: default
+  execute-dir: project
+
+lang: pt-BR
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    embed-resources: true
+    code-fold: true
+    code-summary: "Mostrar código"
+    code-tools: true
+    css: styles.css
+execute:
+  echo: true
+  warning: false
+  error: false
+  cache: false

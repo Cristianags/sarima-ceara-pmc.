@@ -1,0 +1,8 @@
+:root { --accent: #254e70; }
+body { color: #243344; }
+h1, h2, h3 { color: var(--accent); }
+#title-block-header { border-bottom: 3px solid var(--accent); padding-bottom: 1.1rem; }
+.quarto-title .subtitle { color: #607184; }
+table { font-size: 0.88rem; }
+.callout { border-radius: 5px; }
+figcaption { color: #536579; }
